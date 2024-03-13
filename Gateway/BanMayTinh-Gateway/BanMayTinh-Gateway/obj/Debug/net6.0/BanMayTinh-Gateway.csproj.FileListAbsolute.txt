@@ -1,0 +1,231 @@
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\appsettings.Development.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\appsettings.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\ocelot.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.exe
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.deps.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.runtimeconfig.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.pdb
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\FluentValidation.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Ocelot.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.AssemblyReference.cache
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.AssemblyInfoInputs.cache
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.AssemblyInfo.cs
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.CoreCompileInputs.cache
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.BanMayTinh-Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.BanMayTinh-Gateway.props
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BanMayTinh-Gateway.props
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BanMayTinh-Gateway.props
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\scopedcss\bundle\BanMayTinh-Gateway.styles.css
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.CopyComplete
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\refint\BanMayTinh-Gateway.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.pdb
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.genruntimeconfig.cache
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\ref\BanMayTinh-Gateway.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Humanizer.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Teaching\Web API\Demo WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\appsettings.Development.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\appsettings.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\ocelot.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.exe
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.deps.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.runtimeconfig.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.pdb
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\FluentValidation.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Humanizer.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Ocelot.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.AssemblyReference.cache
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.AssemblyInfoInputs.cache
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.AssemblyInfo.cs
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.CoreCompileInputs.cache
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.BanMayTinh-Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.BanMayTinh-Gateway.props
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BanMayTinh-Gateway.props
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BanMayTinh-Gateway.props
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\scopedcss\bundle\BanMayTinh-Gateway.styles.css
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.CopyComplete
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\refint\BanMayTinh-Gateway.dll
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.pdb
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.genruntimeconfig.cache
+D:\Teaching\Demo\WebAPI\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\ref\BanMayTinh-Gateway.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\appsettings.Development.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\appsettings.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\ocelot.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.exe
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.deps.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.runtimeconfig.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\BanMayTinh-Gateway.pdb
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\FluentValidation.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Humanizer.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Ocelot.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.AssemblyReference.cache
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.AssemblyInfoInputs.cache
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.AssemblyInfo.cs
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.CoreCompileInputs.cache
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.BanMayTinh-Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.BanMayTinh-Gateway.props
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BanMayTinh-Gateway.props
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BanMayTinh-Gateway.props
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\scopedcss\bundle\BanMayTinh-Gateway.styles.css
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.csproj.CopyComplete
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\refint\BanMayTinh-Gateway.dll
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.pdb
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\BanMayTinh-Gateway.genruntimeconfig.cache
+D:\VS2022\Gateway\BanMayTinh-Gateway\BanMayTinh-Gateway\obj\Debug\net6.0\ref\BanMayTinh-Gateway.dll

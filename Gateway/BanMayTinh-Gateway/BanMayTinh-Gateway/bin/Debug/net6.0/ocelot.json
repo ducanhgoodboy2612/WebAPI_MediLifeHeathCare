@@ -1,0 +1,75 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:28191"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/KhachHang/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/KhachHang/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 41624
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api-nguoidung/danhmuc/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/danhmuc/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 52554
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/sanpham/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //},
+      "DownstreamPathTemplate": "/api/sanpham/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 41624
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api-nguoidung/trangchu/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/home/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 52554
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api-admin/users/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "DownstreamPathTemplate": "/api/users/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 20965
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BanMayTinh V2.props" />
+</Project>
